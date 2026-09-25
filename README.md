@@ -4,7 +4,7 @@
 =========
 
 You wont find what you are looking for here. 
-(my commits are unverified since github doesnt like cock.li addresses)
+(some commits are unverified, you have to check them yourself)
 
 systems engineer and embedded programmer (or I think I am anyway)
 ```
