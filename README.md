@@ -3,7 +3,7 @@
 おっはよ！
 =========
 
-You wont find what you are looking for here. 
+90% memes by volume
 (some commits are unverified, you have to check them yourself)
 
 systems engineer and embedded programmer (or I think I am anyway)
